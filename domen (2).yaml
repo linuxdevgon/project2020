@@ -95,7 +95,7 @@ Parameters:
 
   LoadBalancerCertificateARN:
     Type: String
-    Default:  arn:aws:acm:us-east-2:893702294666:certificate/3ec181cb-c2ce-4429-a062-ea4fbd777955
+    Default:  #number your cert
     Description: Enter certificate ARN
 
   # PublicIP:
